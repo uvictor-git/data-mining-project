@@ -1,15 +1,24 @@
-Project Title: Comparing the performance of K-Means and Hierarchical clustering analysis on Online Retail Dataset
+# Data Mining Project
 
-1. Getting Started: These instructions will get you a copy of the project up and running on your local machine for development and testing purposes (Linux OS).
+## Comparing the performance of K-Means and Hierarchical clustering analysis on Online Retail Dataset
 
-2. Prerequisites: You will need to install the following libraries NumPy, Pandas, matplotlib, SKlearn, Sys, os, scipy, Seaborn, Time
+### Getting Started
+These instructions will get you a copy of the project up and running on your local machine for development and testing purposes (Linux OS).
 
-3. Data Processing: Open the terminal from the project folder and run the following command in the terminal'$ python3 testsplit.py Online_Retail.csv'
+### Prerequisites: 
+You will need to install the following libraries **NumPy, Pandas, matplotlib, SKlearn, Sys, os, scipy, Seaborn,**
 
-4. Clustering: Run the cluster_compare.py file to perform clustering 
+### Data Processing: 
+Open the terminal from the project folder and run the following command in the terminal'
+```bash
+$ python3 testsplit.py Online_Retail.csv
+```
+### Implementing the model
+Run the **cluster_compare.py** file to perform clustering 
 
-Programming Language: Python 
+> Programming Language: Python 
 
-Authors: Uboho Victor
+> Authors: Uboho Victor
 
-Acknowledgments: Dr. Lin Li
+> Acknowledgments: Dr. Lin Li
+
